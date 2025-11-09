@@ -20,6 +20,15 @@ npm install
 npm run dev
 ```
 
+## Deployment
+
+This app is configured for GitHub Pages deployment. See [DEPLOYMENT.md](DEPLOYMENT.md) for full instructions.
+
+**Quick deploy:**
+1. Push to GitHub: `git push origin main`
+2. Enable GitHub Pages in Settings → Pages → Source: GitHub Actions
+3. Your site will be live at `https://YOUR_USERNAME.github.io/prompt-md-json-formatter/`
+
 ## Usage
 
 1. Upload a JSON file with prompt key-value pairs

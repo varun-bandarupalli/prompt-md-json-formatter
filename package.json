@@ -1,8 +1,11 @@
 {
-  "name": "roleplay-prompt-writer",
+  "name": "prompt-md-json-formatter",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "A React web application for editing LLM prompts with markdown support",
+  "author": "Varun Bandarupalli",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
